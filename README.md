@@ -22,7 +22,7 @@
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
    **3.** Create Profit and Loss (P&L) reports by _[Quarters] 
-   **4.** Create Gross Margin% by Quarters
+   **4.** Create Gross Margin% by Quarters (https://github.com/RahulBarua007/Excel-Sales-Analytics/blob/main/Gross%20Margin%25%20for%20Quarters.pdf)
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
